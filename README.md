@@ -11,6 +11,12 @@ This project demonstrates a minimal HTTP server with two endpoints.
 - Go installed
 
 ## Setup & Run
-``` bash
-go mod init prompt-powered-go
+```bash
 go run main.go
+```
+
+Open in your browser:
+
+http://localhost:8080/
+
+http://localhost:8080/health
